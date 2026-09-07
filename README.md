@@ -1,14 +1,19 @@
-Librerias de Arduino Necesarias para la compilación de los códigos de MQTT:
+Arduino Libraries Required for Compiling the MQTT Codes
 
-ArduinoHttpClient by Arduino. versión: 0.6.1
- Arduino_DebugUtils by Arduino. versión 1.50
- Arduino_ESP32_OTA by Arduino. versión 0.3.1
- ArduinoJson by Benoit Blanchon... versión 7.4.3
- LiquidCrystal I2C by Frank de Brabander. versión 1.1.2 
-PubSubClient by Nick O'Leary. versión 2.8
+ ArduinoHttpClient by Arduino. Version: 0.6.1
+ Arduino_DebugUtils by Arduino. Version: 1.50
+ Arduino_ESP32_OTA by Arduino. Version: 0.3.1
+ ArduinoJson by Benoit Blanchon. Version: 7.4.3
+ LiquidCrystal I2C by Frank de Brabander. Version: 1.1.2
+ PubSubClient by Nick O'Leary. Version: 2.8
 
-Si no se tienen descargadas estas librearias en ArduinoIDE. No se podrán ejecutar los códigos Codigos_ino_mqtt
+If these libraries are not installed in Arduino IDE, the Codigos_ino_mqtt codes cannot be executed.
 
-MQTT: 
+MQTT
+"giirob/pr2/station/mesa/status" // read
+"giirob/pr2/station/mesa/commands/TEMP" // write
+Wi-Fi:
 
-Temperatura: https://upvedues-my.sharepoint.com/:v:/g/personal/allom14a_upv_edu_es/IQCf9RYgmYk_Q5Y-2YDL6bIvAYvTHe1x_SPTmzSEY7mGqEE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HFD9Ch
+
+Temperature video:
+https://upvedues-my.sharepoint.com/:v:/g/personal/allom14a_upv_edu_es/IQCf9RYgmYk_Q5Y-2YDL6bIvAYvTHe1x_SPTmzSEY7mGqEE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HFD9Ch
